@@ -1,15 +1,7 @@
-echo "# ProjetoUniCorp" >> README.md 
-
+echo "# ProjetoUniCorp" >> README.md
 git init
-git config --global user.name "luaanpc"
-git config --global user.email "luanpcc7@gmail.com"
-git add .
+git add README.md
 git commit -m "first commit"
 git branch -M main
-
-git remote add origin 
-
+git remote add origin https://github.com/luaanpc/ProjetoUniCorp.git
 git push -u origin main
-
-
-
