@@ -55,7 +55,7 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
     <script>
-        const baseURL = "/projeto-unicorp/";
+        const baseURL = "/2IDS/ProjetoUniCorp/";
 
         function carregarUsuarios() {
             $.get(baseURL + "api/admin/usuarios_listar.php", function(lista){

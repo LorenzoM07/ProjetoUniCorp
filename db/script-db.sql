@@ -6,9 +6,9 @@
 -- ------------------------------------------------------
 
 -- Criar Banco de Dados --
-CREATE DATABASE projetounicorpv5aula;
+CREATE DATABASE projetounicorp;
 --
-USE projetounicorpv5aula;
+USE projetounicorp;
 --
 -- Criar a Estrutura da Tabela `certificados`
 --
